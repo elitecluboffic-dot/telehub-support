@@ -1,3 +1,3 @@
-name = "telecard-report-backend"
+name = "telehub-report"
 main = "server.js"
 compatibility_date = "2026-07-01"
